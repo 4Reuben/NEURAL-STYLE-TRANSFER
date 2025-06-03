@@ -124,3 +124,6 @@ Managing Python virtual environments and dependencies.
 ## Acknowledgments
 
 Special thanks to CodTech IT Solutions for providing this opportunity. This project helped me understand the intersection of art and deep learning, and gave me hands-on experience with TensorFlow-based style transfer.
+
+## OUTPUT
+
