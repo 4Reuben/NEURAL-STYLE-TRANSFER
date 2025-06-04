@@ -12,9 +12,6 @@
 
 *MENTOR*: NEELA SANTOSH
 
-
----
-
 ## Project Description
 
 This project is a simple yet visually powerful demonstration of applying artistic style to images using a technique called Neural Style Transfer. The goal is to combine the content of one image with the style of another, producing a unique stylized output.
@@ -22,8 +19,6 @@ This project is a simple yet visually powerful demonstration of applying artisti
 The script uses pre-trained models from TensorFlow Hub to apply artistic filters to input images. It works by separating and recombining content and style representations of images using deep neural networks. This technique is fast, efficient, and easy to implement using Python libraries.
 
 The script was developed as part of an internship at CodTech IT Solutions, and it serves as Task 3 in the internship’s deliverables.
-
----
 
 ## Technologies & Tools Used
 
@@ -43,8 +38,6 @@ The script was developed as part of an internship at CodTech IT Solutions, and i
 
 - PNG / JPEG Images – for input and output
 
----
-
 ## File Structure
 
 Codtech IT Solutions/
@@ -63,8 +56,6 @@ Codtech IT Solutions/
 
 │ └── README.md # Project documentation (this file)
 
----
-
 ## How It Works
 
 - Input: The script reads content.jpg and style.jpg from the local directory.
@@ -76,8 +67,6 @@ Codtech IT Solutions/
 - Style Transfer: The model generates a new image combining the content and style.
 
 - Output: The final image is saved as output.png and displayed using matplotlib.
-
----
 
 ## What I Did
 
@@ -93,8 +82,6 @@ Codtech IT Solutions/
 
 - Verified the output by running the script in a virtual environment.
 
----
-
 ## What I Didn't Do (Yet)
 
 - No user input for image selection (file names are hard-coded).
@@ -104,8 +91,6 @@ Codtech IT Solutions/
 - Didn't use GPU acceleration for faster inference.
 
 - No batch processing or multi-style blending implemented.
-
----
 
 ## What I Learned
 
@@ -118,8 +103,6 @@ Codtech IT Solutions/
 - File handling and image saving with matplotlib.
 
 - Managing Python virtual environments and dependencies.
-
----
 
 ## Acknowledgments
 
